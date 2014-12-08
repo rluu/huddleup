@@ -1,0 +1,6 @@
+# Ignore generated platform files that are added when calling "cordova platform add".
+platforms/*
+plugins/*
+
+# Don't ignore this file.
+!.gitignore
