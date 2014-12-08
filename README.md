@@ -24,11 +24,7 @@ npm install -g cordova
 
 These steps below assume that Apache Cordova has been installed.
 
-1. Install the most current version of [Xcode](https://developer.apple.com/xcode/).  As of 2014-12-07, this version is 6.1.1.  Apache Cordova requires at least version 4.6.  To determine what version of Xcode you have, run:
-```
-xcodebuild -version
-```
-If you have just installed Xcode, make sure to agree to the Xcode license, or else the project will not build.  This can be done by opening Xcode.app and agreeing to the license in the GUI.  Agreeing to the license can also be done via the command-line (untested):
+1. Install the most current version of [Xcode](https://developer.apple.com/xcode/).  As of 2014-12-07, this version is 6.1.1.  Apache Cordova requires at least version 4.6.  If you have just installed Xcode, make sure you also agree to the Xcode license, or else the project will encounter an error during the build.  Agreeing to the license can be done by opening Xcode.app and agreeing to the license within the GUI.  Agreeing to the license can also be done via the command-line (untested):
 ```
 sudo xcrun cc
 ```
