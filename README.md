@@ -28,7 +28,6 @@ These steps below assume that Apache Cordova has been installed.
 ```
 xcodebuild -version
 ```
-
 If you have just installed Xcode, make sure to agree to the Xcode license, or else the project will not build.  This can be done by opening Xcode.app and agreeing to the license in the GUI.  Agreeing to the license can also be done via the command-line (untested):
 ```
 sudo xcrun cc
