@@ -130,8 +130,7 @@ cordova platform add android
 cordova build android
   ```
 
-# TODO: Step 9 fails.  Need to add a step here to first create an Android AVD.
-9. Run the app in the android emulator.
+9. [TODO: Step 9 fails.  Need to add a step here to first create an Android AVD.]  Run the app in the android emulator.
 
   ```
 cordova emulate android
