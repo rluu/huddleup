@@ -5,6 +5,9 @@ Huddle Up
 
 Huddle Up is a mobile applicaction which allows users to locate nearby bars and drink deals.  This app is written in Javascript with Apache Cordova.
 
+**Important!** Huddle Up development has been suspended, 
+and there have not been any releases available yet.
+It is unclear when active development will continue.
 
 #### Project contributors:
 
